@@ -1,2 +1,2 @@
-# SOTE_paper
-Repository used for paper submition at SOTE
+# OSPW_Paper
+Repository used for paper submition about OSPW reclamation technologies
